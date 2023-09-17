@@ -1,0 +1,12 @@
+1667778256,Head of Java,Must know Java,Bachelor,60000,30/11/22
+1667778248,Tester,One,nothing to say,99,male,PHD,99,99,99,100,,10/12/25
+1667778260,Programmer,Code. Eat. Sleep. Repeat.,Master,550000,05/11/22
+1667778248,Tester,One,nothing to say,99,male,PHD,99,99,99,100,,10/12/25
+1667778262,Data Analyst,Fluent in R and Python. ML/AI is a plus.,PHD,120000,01/06/22
+1667778248,Tester,One,nothing to say,99,male,PHD,99,99,99,100,,10/12/25
+1667778260,Programmer,Code. Eat. Sleep. Repeat.,Master,550000,05/11/22
+1665550530,Hopper,Grace,Computer scientist and navy admiral,66,female,PHD,,,,,600000,
+1667778260,Programmer,Code. Eat. Sleep. Repeat.,Master,550000,05/11/22
+1665550411,James,Gosling,"I am a computer scientist, best known as the founder and lead designer behind the Java programming language",67,male,PHD,100,95,60,80,500000,05/11/22
+1667778260,Programmer,Code. Eat. Sleep. Repeat.,Master,550000,05/11/22
+1665550498,Lovelace,Ada,Mathematician and inventor of the analytical engine,45,female,,,,,,200000,01/12/22
